@@ -106,7 +106,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "/calculadora"
+            "baseHref": "raaquino7/calculadora"
           }
         }
       }
